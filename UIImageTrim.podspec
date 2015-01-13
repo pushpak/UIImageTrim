@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'UIImage-Trim'
+  s.name     = 'UIImageTrim'
   s.authors = { "Sachin Patel" => "me@gizmosachin.com" }
   s.license = 'MIT'
   s.summary = 'Category for trimming transparent pixels of an UIImage object.'
