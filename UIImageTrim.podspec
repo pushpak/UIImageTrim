@@ -8,5 +8,6 @@ Pod::Spec.new do |s|
   s.source = { :git => "https://github.com/pushpak/UIImageTrim.git", :tag => s.version.to_s }
   s.frameworks = 'Foundation', 'UIKit'
   s.platform = :ios, '7.0'
+  s.requires_arc = true
   s.source_files = 'Source'
 end
