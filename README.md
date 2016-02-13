@@ -5,7 +5,7 @@ Category for trimming transparent pixels of an UIImage object.
 
 How to use
 ----------
-Add `UIImage+Trim` to your project with Cocoapods:
+Add `UIImage+Trim` to your project with CocoaPods:
 
 `pod 'UIImageTrim', '1.02'`
 
